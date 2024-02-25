@@ -11,6 +11,7 @@ public:
 private:
 	int trigger_pin;
 	int echo_pin;
+	double distance_cm_;
 };
 
 #endif
